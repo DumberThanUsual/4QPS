@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name powerSymbols)(type Legacy)(uri ${KIPRJMOD}/powerSymbols.lib)(options "")(descr ""))
+)
